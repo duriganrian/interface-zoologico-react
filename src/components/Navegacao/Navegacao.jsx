@@ -32,7 +32,7 @@ function Navegacao() {
                     </li>
 
                     <li>
-                        <Link style={{color:"#A7A000"}}  to="/login">   Login</Link>
+                        <Link style={{color:"#A7A000"}}  to="/login"> Login</Link>
                     </li>
 
                 </ul>
